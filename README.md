@@ -1,0 +1,1 @@
+This repository contains core Python files and examples showcasing various concepts and features of the Python programming language. Whether you are a beginner looking to learn Python or an experienced developer seeking to refresh your knowledge, this repository can serve as a valuable resource for understanding and exploring Python fundamentals.
